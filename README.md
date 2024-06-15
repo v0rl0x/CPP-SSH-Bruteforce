@@ -29,7 +29,6 @@ NOTE: Do not exceed 64000 threads as there is only around 64000 available ports 
 # Combos File
 The combos file can be found under int main, you can change to any name you want. The default combo file name is combos.txt.
 
-The format of the combos is "username:password", does not support whitespace for example:
+The format of the combos is "username:password" one per line, and this does not support whitespace, for example:
 
 root:root
-root:rooot
